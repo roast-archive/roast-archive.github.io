@@ -1,0 +1,49 @@
+.roast_title {
+	font-style: italic;
+	font-weight: normal;
+	margin-bottom: 20px;
+}
+
+.feature {
+	margin-top: -20px;
+	margin-bottom: 20px;
+	margin-left: 25px;
+
+	font-style: italic;
+	font-weight: normal;
+}
+
+body {
+	margin-top: 30px;
+}
+
+.roast_container {
+	width: 575px;
+	padding-left: 50px;
+	text-indent: -20px;
+	line-height: 20px;
+
+	margin-bottom: 30px;
+
+	font-family: "Times New Roman"
+}
+
+.roast_stanza {
+	margin-bottom: 30px;
+}
+
+.roast_line {
+	margin-top: -16px;
+}
+
+#footer {
+	margin-top: 50px;
+	margin-left: 30px;
+	margin-bottom: 30px;
+	font-family: "Times New Roman"
+}
+
+a {
+	/* text-decoration: none; */
+	margin-right: 15px;
+}
