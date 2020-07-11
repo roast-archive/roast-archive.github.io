@@ -43,11 +43,6 @@ body {
 	font-family: "Times New Roman"
 }
 
-#ocean {
-	background-color: #A4C2F4;
-	color: #836917;
-}
-
 .ind1 {
 	margin-left: 20px; 
 }
@@ -59,4 +54,22 @@ body {
 a {
 	/* text-decoration: none; */
 	margin-right: 15px;
+}
+
+
+
+
+/* The Trophy Room */
+#ocean {
+	background-color: #A4C2F4;
+	color: #836917;
+}
+
+#totaldarkness {
+	background-color: #000000;
+}
+
+#totaldarkness::selection {
+  	color: black;
+  	background: black;
 }
