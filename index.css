@@ -65,10 +65,13 @@ a {
 	color: #836917;
 }
 
-#totaldarkness #totaldarkness::selection {
-	color: black;
-  	background: black;
+#totaldarkness {
+  	background: #000000;
+}
 
+#totaldarkness::selection {
+	color: #000000;
+  	background: #000000;
 }
 
 #lime {
