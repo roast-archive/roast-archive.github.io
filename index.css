@@ -82,3 +82,7 @@ a {
 	color: #00FF00;
 }
 
+.heart {
+	margin-left: 20px;
+	font-style: italic;
+}
