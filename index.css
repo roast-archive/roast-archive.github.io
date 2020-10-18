@@ -63,10 +63,13 @@ a {
 }
 
 .blosmatrix {
-	padding-top: 5px;
-	padding-left: 10px;
+        padding-left: 10px;
 }
 
+#duchessblock {
+    margin-top: -10px;
+    margin-bottom: -25px;
+}
 
 /* The Trophy Room */
 #ocean {
