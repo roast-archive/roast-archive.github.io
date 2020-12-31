@@ -38,6 +38,20 @@ body {
 	margin-top: -16px;
 }
 
+#resolitons {
+	width: 100%;
+	border-color:white;
+	border-style:solid;
+	border-width:1px;
+	margin-left: -20px;
+}
+
+th {
+	font-weight: normal;
+	text-align: left;
+	vertical-align: top;
+}
+
 #footer {
 	margin-top: 50px;
 	margin-left: 30px;
