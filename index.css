@@ -77,12 +77,14 @@ a {
 }
 
 .blosmatrix {
-        padding-left: 10px;
+    padding-left: 10px;
 }
 
 #duchessblock {
+	padding-top: 15px;
+	margin-left: 20px;
     margin-top: -10px;
-    margin-bottom: -25px;
+    /*margin-bottom: -25px;*/
 }
 
 /* The Trophy Room */
