@@ -3,8 +3,10 @@
 */
 function pass_to_rst_archive() {
 
-	var pass_try = prompt("Please enter the roast archives\' password.")
-  if(pass_try.toLowerCase() == "poet ruffian") {
+  var pass_try = prompt("Please enter the roast archives\' password.")
+  if(pass_try == null)
+  	return false;
+  else if(pass_try.toLowerCase() == "poet ruffian") {
       return true;
   } else {
       alert('Sorry, that\'s not correct.');
@@ -15,8 +17,10 @@ function pass_to_rst_archive() {
 
 function pass_to_sys_archive() {
 
-	var pass_try = prompt("Please enter the system archives\' password.")
-  if(pass_try.toLowerCase() == "twenty two am") {
+  var pass_try = prompt("Please enter the system archives\' password.")
+  if(pass_try == null)
+  	return false;
+  else if(pass_try.toLowerCase() == "twenty two am") {
       return true;
   } else {
       alert('Sorry, that\'s not correct.');
