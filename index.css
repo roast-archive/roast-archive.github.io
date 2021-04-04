@@ -52,6 +52,10 @@ th {
 	vertical-align: top;
 }
 
+.no-italics {
+    font-style: normal;   
+}
+
 #footer {
 	margin-top: 50px;
 	margin-left: 30px;
