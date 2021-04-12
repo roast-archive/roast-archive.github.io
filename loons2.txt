@@ -1,24 +1,7 @@
-<!doctype html>
-
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-
-  <title>Active Roast</title>
-  <meta name="description" content="Active Roast">
-  <meta name="author" content="JYY">
-
-  <link rel="stylesheet" href="index.css">
-
-</head>
-
-<body>
-  <script src="index.js" type="text/javascript"></script>
-  <div class="roast_container">
-  <h4 class="roast_title">Coffee is set<br />
-to go.—<br />
-Just press on.<br />
-xo,<br />
+<h4 class="roast_title>Coffee is set\n
+to go.—\n
+Just press on.\n
+xo,\n
 this note has been taped to the inside of my laptop for a month now.</h4>
 <div class="roast_stanza">
 <p class="roast_line">communication of fire thru silk threads—angel-of. angel-for.</p>
@@ -101,18 +84,4 @@ this note has been taped to the inside of my laptop for a month now.</h4>
 <p class="roast_line">your favorite character i've touched. </p>
 </div><div class="roast_stanza">
 <p class="roast_line"><i>don't look</i>—loons, preening.</p>
-</div>  
-  </div>
-  <div id="footer">
-  	<a href="archives.html" onclick="javascript:return pass_to_rst_archive()">Retired Roasts (Dec. 31, 2020)</a>
-  	<a href="systems.html" onclick="javascript:return pass_to_sys_archive()">Retired Systems (Feb. 24, 2021)</a>
-  	<a href="mylastduchess.html">My Last Duchess (Nov. 7, 2020)</a>
-  	<a href="http://roastwthearchive.herokuapp.com/">Roast <i>with</i> the Archive! (Feb. 5, 2021)</a>
-  	<a href="durations.html">Durations (Apr. 4, 2021)</a>
-  	<!--
-  		<a href="cafeannika.pdf">Caf&eacute; Annika</a>
-  	-->
-  </div>
-</body>
-
-</html>
+</div>
