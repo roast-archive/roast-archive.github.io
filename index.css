@@ -114,3 +114,7 @@ a {
 	margin-left: 20px;
 	font-style: italic;
 }
+
+.right {
+  float:right;
+}
